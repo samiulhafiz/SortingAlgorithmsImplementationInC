@@ -1,5 +1,5 @@
 # Sorting Algorithms Implementation in C
-
+##### by Samiul Hafiz
 ## Overview
 Welcome to the Sorting Algorithms Implementation repository! This comprehensive collection contains perfectly executable C codes for various sorting algorithms discussed in the lab. Each algorithm has been meticulously implemented, following the provided pseudo-codes, to showcase the students' exceptional implementation skills.
 
